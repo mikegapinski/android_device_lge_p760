@@ -78,7 +78,8 @@ PRODUCT_PACKAGES += \
     audio.a2dp.default \
     audio_policy.default \
     audio.primary.p760 \
-    hwcomposer.p760
+    hwcomposer.p760 \
+    power.p760
 
 PRODUCT_PACKAGES += \
     OMXCore \
