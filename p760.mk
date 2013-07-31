@@ -119,7 +119,8 @@ PRODUCT_PACKAGES += \
     utilsApp.out \
     libd2cmap \
     libomap_mm_library_jni \
-    libtimemmgr
+    libtimemmgr		\
+    e2fsck
 
 # NFC packages
 PRODUCT_PACKAGES += \
